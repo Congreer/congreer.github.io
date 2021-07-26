@@ -1,1 +1,2 @@
-Congreer docs
+# Congreer Docs
+This is the complete guide to use Congreer Services in your own project. Currently site is under heavy development and only 20% of it is done. The complete version of Congreer will realese in 2022. Beta versions can be realised in other dates. Please stay tune for the next update. Can be found on congreer.github.io/notices. We are using laravel for this project so we can realese Composer packages. In the first major version 1.0.1 you can use Congreer auth api/Congre Api etc by installing our packages for different languages. Congreer is not going to be a open source project. But the packages will be open source.
